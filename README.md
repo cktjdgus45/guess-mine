@@ -1,7 +1,6 @@
 # guess-mine
+
 Real TIME game built with SocketIO,Gulp,Node
-
-
 
 ## To Do:
 
@@ -9,3 +8,4 @@ Real TIME game built with SocketIO,Gulp,Node
 - [x] Pug
 - [x] Static
 - [ ] SocketIO
+- [x] EsLint
