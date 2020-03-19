@@ -7,5 +7,5 @@ Real TIME game built with SocketIO,Gulp,Node
 - [x] Server
 - [x] Pug
 - [x] Static
-- [ ] SocketIO
+- [x] SocketIO
 - [x] EsLint
